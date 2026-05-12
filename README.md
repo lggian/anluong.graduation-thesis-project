@@ -1,6 +1,6 @@
 # Graduation-Thesis-Project
 
-This repo is my and my partner’s graduation thesis project. We have passed with 8.5/10 a.k.a 4.0/4.0, maintaining about “Text Detection in Images Using Machine Learning Methods.”
+This repo is my and my partner’s graduation thesis project. We have passed with 8.5/10 a.k.a 4.0/4.0, maintaining about “Text Detection in Images Using Machine Learning Methods”
 
 Description details have been written in the final-thesis-article.pdf
 
